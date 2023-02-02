@@ -1,3 +1,5 @@
+//Hier maak je de variabel let answer aan en in de functies gebruik je het
+
 //1
 function calc(num, num2) {
     let answer = num + num2;
