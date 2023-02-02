@@ -1,6 +1,6 @@
-function calc(num, num2) {
-    let answer = num * num2;
+function multiplyByFive(num) {
+    let answer = 5 * num;
     console.log(answer);
 }
 
-calc(10, 2)
+multiplyByFive(2)
