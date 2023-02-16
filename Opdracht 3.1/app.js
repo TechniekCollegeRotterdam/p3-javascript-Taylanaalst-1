@@ -5,6 +5,6 @@ let product = 60;
     console.log("te weinig");
 }  
 
-  else (budget < product) {
+  else  {
     console.log("te veel");
 }
