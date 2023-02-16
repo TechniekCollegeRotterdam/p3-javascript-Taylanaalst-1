@@ -2,9 +2,9 @@ let budget = 100;
 let product = 60;
 
   if (budget > product) {
-    console.log("te weinig");
+    console.log("Genoeg");
 }  
 
   else  {
-    console.log("te veel");
+    console.log("Te weinig");
 }
