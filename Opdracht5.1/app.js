@@ -8,6 +8,6 @@ document.body.addEventListener('mousemove', function(e) {
 
 document.body.addEventListener('mouseout', function(e) { 
     if (e.clientX > 10) {
-     nav.classList.add("hide-nav")
+     nav.classList.delete("show-nav")
     }
  });
