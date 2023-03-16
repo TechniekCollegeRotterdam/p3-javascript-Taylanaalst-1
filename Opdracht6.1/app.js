@@ -11,5 +11,15 @@ button.addEventListener("click", function() {
     text.value = "";
 
     
+    p.addEventListener("click", function(){
+        p.style.textDecoration = "line-through";
+      });
+
+      p.addEventListener("dblclick", function(){
+        container.removeChild(p);
     
-})
+     });
+    })
+
+
+
